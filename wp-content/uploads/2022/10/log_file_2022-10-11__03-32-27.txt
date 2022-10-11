@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: Newsport were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080
+Data file = C:\xampp\htdocs\c/wp-content/uploads/2022/10/demo-content-import-file_2022-10-11__03-32-27.xml
+Widget file = C:\xampp\htdocs\c/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-11__03-32-27.json
+Customizer file = C:\xampp\htdocs\c/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-11__03-32-27.dat
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+CoverNews Social Contacts - No Title - Widget already exists
+Search - No Title - Widget already exists
+CoverNews Tabbed Posts - No Title - Widget already exists
+Navigation Menu - Qiuck Menu - Widget already exists
+
+Front-page Content Section : 
+
+CoverNews Double Categories Posts - No Title - Widget already exists
+CoverNews Posts Grid - No Title - Widget already exists
+CoverNews Posts Slider - No Title - Widget already exists
+CoverNews Posts Carousel - No Title - Widget already exists
+
+Front-page Sidebar Section : 
+
+CoverNews Tabbed Posts - No Title - Widget already exists
+CoverNews Social Contacts - No Title - Widget already exists
+CoverNews Posts Slider - No Title - Widget already exists
+
+Footer First Section : 
+
+Navigation Menu - Quick Menu - Widget already exists
+
+Footer Second Section : 
+
+Tag Cloud - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+
+Footer Third Section : 
+
+Calendar - Schedules - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---af-companion/after_import---
+

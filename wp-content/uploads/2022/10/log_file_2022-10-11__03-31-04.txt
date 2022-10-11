@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Newsport were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080
+Data file = C:\xampp\htdocs\c/wp-content/uploads/2022/10/demo-content-import-file_2022-10-11__03-31-04.xml
+Widget file = C:\xampp\htdocs\c/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-11__03-31-04.json
+Customizer file = C:\xampp\htdocs\c/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-11__03-31-04.dat
+
+------
+Completed AJAX call number: 1
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+CoverNews Social Contacts - No Title - Imported
+Search - No Title - Imported
+CoverNews Tabbed Posts - No Title - Imported
+Navigation Menu - Qiuck Menu - Imported
+
+Front-page Content Section : 
+
+CoverNews Double Categories Posts - No Title - Imported
+CoverNews Posts Grid - No Title - Imported
+CoverNews Posts Slider - No Title - Imported
+CoverNews Posts Carousel - No Title - Imported
+
+Front-page Sidebar Section : 
+
+CoverNews Tabbed Posts - No Title - Imported
+CoverNews Social Contacts - No Title - Imported
+CoverNews Posts Slider - No Title - Imported
+
+Footer First Section : 
+
+Navigation Menu - Quick Menu - Imported
+
+Footer Second Section : 
+
+Tag Cloud - No Title - Imported
+Recent Posts - No Title - Imported
+
+Footer Third Section : 
+
+Calendar - Schedules - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---af-companion/after_import---
+
