@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wp_khmer20' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '@@$Jrnn21' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost:8080' );
